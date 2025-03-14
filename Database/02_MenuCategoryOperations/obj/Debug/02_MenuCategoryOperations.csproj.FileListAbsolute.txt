@@ -1,0 +1,7 @@
+D:\FirstProjectTest\Database\02_MenuCategoryOperations\obj\Debug\02_MenuCategoryOperations.csproj.AssemblyReference.cache
+D:\FirstProjectTest\Database\02_MenuCategoryOperations\obj\Debug\02_MenuCategoryOperations.csproj.CoreCompileInputs.cache
+D:\FirstProjectTest\Database\02_MenuCategoryOperations\bin\Debug\02_MenuCategoryOperations.exe.config
+D:\FirstProjectTest\Database\02_MenuCategoryOperations\bin\Debug\02_MenuCategoryOperations.exe
+D:\FirstProjectTest\Database\02_MenuCategoryOperations\bin\Debug\02_MenuCategoryOperations.pdb
+D:\FirstProjectTest\Database\02_MenuCategoryOperations\obj\Debug\02_MenuCategoryOperations.exe
+D:\FirstProjectTest\Database\02_MenuCategoryOperations\obj\Debug\02_MenuCategoryOperations.pdb

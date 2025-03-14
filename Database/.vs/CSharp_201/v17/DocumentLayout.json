@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FirstProjectTest\\Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F2D4EF-2520-4136-AD13-E76DC5E6F655}|00_Main\\00_Main.csproj|d:\\firstprojecttest\\database\\00_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F2D4EF-2520-4136-AD13-E76DC5E6F655}|00_Main\\00_Main.csproj|solutionrelative:00_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AFEB6-3146-4DEB-814A-BBE90E0AB31C}|02_MenuCategoryOperations\\02_MenuCategoryOperations.csproj|D:\\FirstProjectTest\\Database\\02_menucategoryoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277AFEB6-3146-4DEB-814A-BBE90E0AB31C}|02_MenuCategoryOperations\\02_MenuCategoryOperations.csproj|solutionrelative:02_menucategoryoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631C7C45-190B-42D8-9788-5F17F959FC95}|BuSeferOlacak\\01_LoginSystemWith_SQLDatabases.csproj|D:\\FirstProjectTest\\Database\\buseferolacak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631C7C45-190B-42D8-9788-5F17F959FC95}|BuSeferOlacak\\01_LoginSystemWith_SQLDatabases.csproj|solutionrelative:buseferolacak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FirstProjectTest\\Database\\00_Main\\Program.cs",
+              "RelativeDocumentMoniker": "00_Main\\Program.cs",
+              "ToolTip": "D:\\FirstProjectTest\\Database\\00_Main\\Program.cs",
+              "RelativeToolTip": "00_Main\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:42:26.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FirstProjectTest\\Database\\02_MenuCategoryOperations\\Program.cs",
+              "RelativeDocumentMoniker": "02_MenuCategoryOperations\\Program.cs",
+              "ToolTip": "D:\\FirstProjectTest\\Database\\02_MenuCategoryOperations\\Program.cs",
+              "RelativeToolTip": "02_MenuCategoryOperations\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:39:52.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FirstProjectTest\\Database\\BuSeferOlacak\\Program.cs",
+              "RelativeDocumentMoniker": "BuSeferOlacak\\Program.cs",
+              "ToolTip": "D:\\FirstProjectTest\\Database\\BuSeferOlacak\\Program.cs",
+              "RelativeToolTip": "BuSeferOlacak\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:17:22.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

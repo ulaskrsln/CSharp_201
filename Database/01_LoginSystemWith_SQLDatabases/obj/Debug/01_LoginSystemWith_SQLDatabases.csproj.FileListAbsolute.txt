@@ -1,0 +1,14 @@
+D:\FristProjectTest\Database\BuSeferOlacak\bin\Debug\BuSeferOlacak.exe.config
+D:\FristProjectTest\Database\BuSeferOlacak\bin\Debug\BuSeferOlacak.exe
+D:\FristProjectTest\Database\BuSeferOlacak\bin\Debug\BuSeferOlacak.pdb
+D:\FristProjectTest\Database\BuSeferOlacak\obj\Debug\01_LoginSystemWith_SQLDatabases.csproj.AssemblyReference.cache
+D:\FristProjectTest\Database\BuSeferOlacak\obj\Debug\01_LoginSystemWith_SQLDatabases.csproj.CoreCompileInputs.cache
+D:\FristProjectTest\Database\BuSeferOlacak\obj\Debug\BuSeferOlacak.exe
+D:\FristProjectTest\Database\BuSeferOlacak\obj\Debug\BuSeferOlacak.pdb
+D:\FirstProjectTest\Database\BuSeferOlacak\bin\Debug\BuSeferOlacak.exe.config
+D:\FirstProjectTest\Database\BuSeferOlacak\bin\Debug\BuSeferOlacak.exe
+D:\FirstProjectTest\Database\BuSeferOlacak\bin\Debug\BuSeferOlacak.pdb
+D:\FirstProjectTest\Database\BuSeferOlacak\obj\Debug\01_LoginSystemWith_SQLDatabases.csproj.AssemblyReference.cache
+D:\FirstProjectTest\Database\BuSeferOlacak\obj\Debug\01_LoginSystemWith_SQLDatabases.csproj.CoreCompileInputs.cache
+D:\FirstProjectTest\Database\BuSeferOlacak\obj\Debug\BuSeferOlacak.exe
+D:\FirstProjectTest\Database\BuSeferOlacak\obj\Debug\BuSeferOlacak.pdb

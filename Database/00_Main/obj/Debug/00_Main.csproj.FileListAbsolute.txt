@@ -1,0 +1,7 @@
+D:\FirstProjectTest\Database\00_Main\obj\Debug\00_Main.csproj.AssemblyReference.cache
+D:\FirstProjectTest\Database\00_Main\obj\Debug\00_Main.csproj.CoreCompileInputs.cache
+D:\FirstProjectTest\Database\00_Main\bin\Debug\00_Main.exe.config
+D:\FirstProjectTest\Database\00_Main\bin\Debug\00_Main.exe
+D:\FirstProjectTest\Database\00_Main\bin\Debug\00_Main.pdb
+D:\FirstProjectTest\Database\00_Main\obj\Debug\00_Main.exe
+D:\FirstProjectTest\Database\00_Main\obj\Debug\00_Main.pdb
